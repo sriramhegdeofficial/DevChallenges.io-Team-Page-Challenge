@@ -137,7 +137,7 @@ footer {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
         row-gap: 50px;
-        column-gap: 100px;
+        column-gap: 50px;
         height: auto;
         padding: 0 10%;
         
